@@ -1,3 +1,5 @@
+import '../styles/Services.css';
+
 const Services = () => {
     const services = [
         { id: 1, title: 'Service 01', description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum corrupti aspernatur nihil, tenetur tempora labore!', image: '/service.jpg' },
