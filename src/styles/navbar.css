@@ -5,6 +5,7 @@
     background: white;
     padding: 15px 20px;
     max-width: 1400px;
+    margin:0 auto;
 }
 
 .navbar .logo img {
